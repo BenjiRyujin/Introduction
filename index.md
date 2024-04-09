@@ -8,7 +8,7 @@
     - [My Favorite Haiku](#my-favorite-haiku)
 - [End of year goals](#end-of-year-goals)
 
-![Image of Benji](/images/HeadShot.JPG)
+![Image of Benji](/images/Headshot.JPG)
 
 Hello! My name is Benjamin Ryujin and I am a fourth year UC San Diego student majoring in Cognitive Science Design and Interaction and minoring in Computer Science.
 
